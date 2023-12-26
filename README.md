@@ -10,9 +10,9 @@ This project is a simple Apple eCommerce website showcasing the iPhone 12. It in
 
 ## Demo
 
-### [Live Site](https://secrets-app-9ox9.onrender.com/)
+### [Live Site](https://ehasan8115.github.io/apple-product-page/)
 
-![SecretKeeper](screenshots/apple-iphone12.png)
+![Apple iPhone 12 Product Page](screenshots/apple-iphone12.png)
 
 ## Features
 
