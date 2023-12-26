@@ -1,0 +1,66 @@
+{
+    "product": {
+      "id": "iphone_12",
+      "name": "iPhone 12",
+      "brand": "Apple",
+      "model": "12",
+      "releaseYear": 2020,
+      "colors": ["Black", "White", "Blue", "Green", "Product(RED)"],
+      "storageOptions": [64, 128, 256],
+      "defaultStorage": 128,
+      "display": {
+        "type": "Super Retina XDR OLED",
+        "size": "6.1 inches",
+        "resolution": "2532 x 1170 pixels",
+        "features": ["HDR10", "Dolby Vision", "True Tone"]
+      },
+      "camera": {
+        "main": {
+          "type": "Dual",
+          "lenses": ["12 MP, f/1.6, 26mm (wide)", "12 MP, f/2.4, 120˚ (ultrawide)"],
+          "features": ["Night mode", "Deep Fusion", "Smart HDR 3"]
+        },
+        "front": {
+          "type": "Dual",
+          "lenses": ["12 MP, f/2.2, 23mm (wide)"],
+          "features": ["Night mode", "Deep Fusion", "Smart HDR 3", "4K@60fps video recording"]
+        }
+      },
+      "processor": {
+        "name": "A14 Bionic",
+        "cores": 6,
+        "architecture": "64-bit",
+        "speed": "Hexa-core (2x3.1 GHz Firestorm + 4x1.8 GHz Icestorm)"
+      },
+      "battery": {
+        "capacity": "2815 mAh",
+        "technology": "Lithium-ion",
+        "wirelessCharging": true,
+        "fastCharging": true
+      },
+      "connectivity": {
+        "network": ["5G", "4G LTE", "3G", "2G"],
+        "wifi": "Wi-Fi 6 (802.11ax)",
+        "bluetooth": "Bluetooth 5.0",
+        "NFC": true,
+        "faceID": true
+      },
+      "operatingSystem": "iOS 14",
+      "dimensions": {
+        "height": "146.7 mm",
+        "width": "71.5 mm",
+        "depth": "7.4 mm",
+        "weight": "164 grams"
+      },
+      "waterResistance": {
+        "rating": "IP68",
+        "depth": "Up to 6 meters for 30 minutes"
+      },
+      "sensors": ["Face ID", "Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer"],
+      "price": {
+        "currency": "USD",
+        "amount": 799.99
+      }
+    }
+  }
+  
