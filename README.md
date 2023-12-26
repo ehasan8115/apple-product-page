@@ -7,15 +7,12 @@ This project is a simple Apple eCommerce website showcasing the iPhone 12. It in
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
 ### [Live Site](https://secrets-app-9ox9.onrender.com/)
 
-![SecretKeeper](https://github.com/ehasan8115/Secrets-Authentication/blob/master/public/images/secrets-home.png?raw=true)
+![SecretKeeper](screenshots/apple-iphone12.png)
 
 ## Features
 
